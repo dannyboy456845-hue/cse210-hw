@@ -1,5 +1,6 @@
 # cse210-student-template
 This is the starter code for students in CSE 210.
+My name is Daniel Talbert and this is my edition to the README file for completing the learning activity assignments instructions.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
